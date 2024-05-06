@@ -819,6 +819,12 @@ body.dark-theme{
     right: .5rem;
   }
 
+  #leaf-3{
+    position: absolute;
+    width: 30px;
+    z-index: -1;
+  }
+
   .newsletter__content{
     padding: 6rem 1rem 2rem;
   }
@@ -996,7 +1002,7 @@ body.dark-theme{
     border-radius: 4.5rem;
   }
   .newsletter__img{
-    postion:initial;
+    position:initial;
     width: 350px;
   }
   .newsletter .section__subtitle,
